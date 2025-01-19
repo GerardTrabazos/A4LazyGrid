@@ -22,9 +22,9 @@ fun Layout4() {
     }
 }
 
+@Preview
 @Composable
-@Preview(showBackground = true)
-fun PreviewLayout4() {
+fun Layout4Preview() {
     AppTheme {
         Layout4()
     }
